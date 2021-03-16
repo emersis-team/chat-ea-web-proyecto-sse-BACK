@@ -1,2 +1,2 @@
-# chat-ea-web-proyecto-sse-BACK
-BACK chat-ea-web usando SSE (Server Sent Events)
+# chat-ea-web-proyecto-websockets-BACK
+BACK de chat-ea-web con Websockets
